@@ -16,4 +16,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=entcheneric&theme=react-dark" alt="Ashutosh's github activity graph" width="715">
     </a>
   </div>
+  <div>
+      <code>I don't need sleep, I need knowledge</code>
+  </div>
 </div>
