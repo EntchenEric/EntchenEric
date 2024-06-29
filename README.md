@@ -17,6 +17,14 @@
     </a>
   </div>
   <div>
+    <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1dpl8v2/lumpbaseddevelopment/">
+        <img src="https://preview.redd.it/lumpbaseddevelopment-v0-kpqhlsdlc29d1.png?width=1080&crop=smart&auto=webp&s=cd1016a68b9c765ca686dfb046434538e6d34713" alt="Funny meme haha" height="186">
+    </a>
+    <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1do1p9u/mathsinjs/">
+        <img src="https://preview.redd.it/j4bxujgopo8d1.png?auto=webp&s=f9e7946a092f9e8105e00f606a90a76fade72d2f" alt="Math isnt mathing" height="186">
+    </a>
+  </div>
+  <div>
       <code>I don't need sleep, I need knowledge</code>
   </div>
 </div>
