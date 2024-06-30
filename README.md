@@ -1,5 +1,8 @@
 <div align="center">
     <div>
+        <code>Exam phase at the university at the moment 😔</code>
+    </div>
+    <div>
         <span>
           Lead Developer & Project Manager of Tanjun
         </span>
