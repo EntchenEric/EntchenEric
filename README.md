@@ -23,11 +23,11 @@
     <a href="https://discord.com/users/471036610561966111">
       <img src="https://lanyard.cnrad.dev/api/471036610561966111" alt="Discord Presence"  height="200">
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EntchenEric&langs_count=10" alt="Top Langs" height="200">
+    </a>
   </div>
     <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EntchenEric&layout=compact&langs_count=8" alt="Top Langs" height="200">
-    </a>
     </div>
   <div>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
