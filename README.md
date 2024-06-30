@@ -7,7 +7,7 @@
           Lead Developer & Project Manager of Tanjun
         </span>
         <a href="https://docs.tanjun.bot" style="text-decoration: none; color: black;">
-            <img src="https://private-user-images.githubusercontent.com/91985694/344394887-a3fdde70-b402-4a9c-89f3-35083942837e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk2NjgzMDgsIm5iZiI6MTcxOTY2ODAwOCwicGF0aCI6Ii85MTk4NTY5NC8zNDQzOTQ4ODctYTNmZGRlNzAtYjQwMi00YTljLTg5ZjMtMzUwODM5NDI4MzdlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI5VDEzMzMyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwYzM5NDAwN2U3ODEzMDY3NGUxN2EzZWIxMmMzZGRkYTBlMTc5NGQ4NzQ0MjRiYjQ3MjlhYjU4MmM1NjdkOWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HZIjAv_1HdtnxCOjk_SuPIdultihh43gHHh6CmzTrbI" alt="Tanjun Logo" width="715">
+            <img src="https://media.discordapp.net/attachments/890276921668161546/1257090747027427418/344394887-a3fdde70-b402-4a9c-89f3-35083942837e.png?ex=6683247d&is=6681d2fd&hm=70d79201d5d2f7cfe1ffe4f89098aacda20b72e4711d8a018f82694e6dbb1c53&=&format=webp&quality=lossless" alt="Tanjun Logo" width="715">
         </a>
     </div>
     <div>
