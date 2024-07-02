@@ -3,9 +3,7 @@
         <code>Exam phase at the university at the moment 😔</code>
     </div>
     <div>
-        <span>
-          Lead Developer & Project Manager of Tanjun
-        </span>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=500&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Lead+Developer+%26+Project+Manager+of+Tanjun" alt="Typing SVG" /></a>
         <a href="https://docs.tanjun.bot" style="text-decoration: none; color: black;">
             <img src="https://media.discordapp.net/attachments/890276921668161546/1257090747027427418/344394887-a3fdde70-b402-4a9c-89f3-35083942837e.png?ex=6683247d&is=6681d2fd&hm=70d79201d5d2f7cfe1ffe4f89098aacda20b72e4711d8a018f82694e6dbb1c53&=&format=webp&quality=lossless" alt="Tanjun Logo" width="715">
         </a>
