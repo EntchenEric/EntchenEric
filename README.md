@@ -2,7 +2,7 @@
     <div>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=500&center=true&vCenter=true&repeat=false&random=true&width=450&lines=Lead+Developer+%26+Project+Manager+of+Tanjun" alt="Typing SVG" /></a>
         <a href="https://docs.tanjun.bot" style="text-decoration: none; color: black;">
-            <img src="https://media.discordapp.net/attachments/890276921668161546/1257090747027427418/344394887-a3fdde70-b402-4a9c-89f3-35083942837e.png?ex=6683247d&is=6681d2fd&hm=70d79201d5d2f7cfe1ffe4f89098aacda20b72e4711d8a018f82694e6dbb1c53&=&format=webp&quality=lossless" alt="Tanjun Logo" width="715">
+            <img src="https://docs.tanjun.bot/~gitbook/image?url=https%3A%2F%2F4032394293-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FkxqAE1ifXfn1iwkp233g%252Fuploads%252FZ6Qyh1ftqKXcuv9bLe8a%252Fpage-cover.png%3Falt%3Dmedia%26token%3D3dd6a27e-e8e7-43a0-a771-7c93bf01aded&width=1248&dpr=1&quality=100&sign=d66cc754&sv=1" alt="Tanjun Logo" width="715">
         </a>
     </div>
     <div>
