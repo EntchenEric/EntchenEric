@@ -11,9 +11,6 @@
     <div>
         Studying Computer Science @ <a href="https://www.w-hs.de">w-hs</a>
     </div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=EntchenEric&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="715">
-    </a>
   <div style="display: flex; justify-content: center; gap: 50px;">
     <a href="https://discord.com/users/471036610561966111">
       <img src="https://lanyard.cnrad.dev/api/471036610561966111" alt="Discord Presence"  height="200">
