@@ -56,6 +56,56 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=entcheneric&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="700">
   </a>
   
+  <!-- Skills Section with Progress Bars -->
+  <h2>Skills</h2>
+  
+  <table>
+    <tr>
+      <td>JavaScript</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=90&color=%23F7DF1E&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="JavaScript 85%"/></td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=85&color=%23E34F26&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="HTML 95%"/></td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=70&color=%231572B6&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="CSS 90%"/></td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=85&color=%233178C6&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="TypeScript 80%"/></td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=90&color=%2361DAFB&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="React 75%"/></td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=55&color=%23007396&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="Git 85%"/></td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=95&color=%233776AB&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="Python 70%"/></td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td><img src="https://progress-bars-eight.vercel.app/bar?progress=85&color=%23F05032&backgroundColor=%23ffffff&height=20&width=200&borderRadius=10&striped=true&animated=true" alt="Git 85%"/></td>
+    </tr>
+  </table>
+  
+  <!-- Open Source Projects Section -->
+  <h2>Open Source Projects</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/EntchenEric/progress-bars">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EntchenEric&repo=progress-bars&theme=tokyonight&hide_border=true" alt="Progress Bars Repo"/>
+    </a>
+    <a href="https://github.com/TanjunBot/tanjun.java">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjunBot&repo=tanjun.java&theme=tokyonight&hide_border=true" alt="Tanjun.java Repo"/>
+    </a>
+  </div>
+  
   <!-- Tech Stack Section -->
   <h2>Tech Stack</h2>
   
