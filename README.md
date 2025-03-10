@@ -48,6 +48,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EntchenEric&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="160">
   </a>
+
+  ![](https://leetcard.jacoblin.cool/EntchenEric?ext=contest)
   
   <br>
   
