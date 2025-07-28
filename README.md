@@ -28,7 +28,7 @@
     </a>
   </p>
   
-  <p><em>"I don't need sleep, I need knowledge"</em></p>
+  <p><em>"I don't need sleep, I need answers"</em></p>
   
   <!-- Stats Section -->
   <h2>Stats & Activity</h2>
