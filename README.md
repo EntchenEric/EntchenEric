@@ -104,6 +104,12 @@
     <a href="https://github.com/TanjunBot/tanjun.java">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjunBot&repo=tanjun.java&theme=tokyonight&hide_border=true" alt="Tanjun.java Repo"/>
     </a>
+    <a href="https://github.com/EntchenEric/books.entcheneric.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EntchenEric&repo=books.entcheneric.com&theme=tokyonight&hide_border=true" alt="books.entcheneric.com Repo"/>
+    </a>
+    <a href="https://github.com/EntchenEric/PyBrawlStars">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EntchenEric&repo=PyBrawlStars&theme=tokyonight&hide_border=true" alt="PyBrawlStars Repo"/>
+    </a>
   </div>
   
   <!-- Tech Stack Section -->
