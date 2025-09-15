@@ -30,6 +30,8 @@
   
   <p><em>"I don't need sleep, I need answers"</em></p>
   
+  <p><em>I absolutely 💝 LaTeX.</em></p>
+  
   <!-- Stats Section -->
   <h2>Stats & Activity</h2>
   
@@ -55,44 +57,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=entcheneric&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="700">
   </a>
-  
-  <!-- Skills Section with Progress Bars -->
-  <h2>Skills</h2>
-  
-  <table>
-    <tr>
-      <td>JavaScript</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=85&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=false&animated=false&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%23f7df1e+0%25%2C+%23ffd60a+30%25%29" alt="JavaScript 85%"></td>
-    </tr>
-    <tr>
-      <td>HTML</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=95&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%23E34F26+0%25%2C+%23FA7436+40%25%2C+%23D96A41+80%25%2C+%23B84E2E+100%25%29" alt="HTML 95%"></td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=75&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%23264de4+0%25%2C+%232965f1+40%25%2C+%235587f6+80%25%2C+%2387b5ff+100%25%29" alt="CSS 75%"></td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=85&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%233178C6+0%25%2C+%234B9BF5+40%25%2C+%236A99D3+80%25%2C+%234A7EC2+100%25%29" alt="TypeScript 85%"></td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=85&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%2361DAFB+0%25%2C+%2300D8FF+40%25%2C+%2328C7FF+80%25%2C+%231C7ED6+100%25%29" alt="React 75%"></td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=55&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%23F8B400+0%25%2C+%23F57C00+40%25%2C+%23FF8C00+80%25%2C+%23FF6A00+100%25%29" alt="Java 55%"></td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=95&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%23FFD43B+0%25%2C+%23FFB81C+40%25%2C+%23F7A800+80%25%2C+%23F15D2A+100%25%29" alt="Python 95%"></td>
-    </tr>
-    <tr>
-      <td>Git</td>
-      <td><img src="https://progress-bars.entcheneric.com/bar?progress=75&color=%232563eb&backgroundColor=%23f3f4f6&height=20&width=200&borderRadius=10&striped=true&animated=true&animationSpeed=1&initialAnimationSpeed=1&colorGradient=linear-gradient%28135deg%2C+%23F34B7D+0%25%2C+%23E44C25+40%25%2C+%23D64B16+80%25%2C+%239E3611+100%25%29" alt="Git 75%"></td>
-    </tr>
-  </table>
   
   <!-- Open Source Projects Section -->
   <h2>Open Source Projects</h2>
