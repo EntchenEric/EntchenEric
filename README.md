@@ -40,7 +40,7 @@
       <img src="https://lanyard.cnrad.dev/api/471036610561966111" alt="Discord Presence" height="160">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=entcheneric&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Stats" height="160">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=entcheneric&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Stats" height="160">
     </a>
   </div>
   
@@ -48,7 +48,7 @@
   
   <!-- Compact WakaTime -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EntchenEric&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="160">
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=EntchenEric&langs_count=6&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="160">
   </a>
   
   <br>
@@ -63,16 +63,16 @@
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/EntchenEric/progress-bars">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EntchenEric&repo=progress-bars&theme=tokyonight&hide_border=true" alt="Progress Bars Repo"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EntchenEric&repo=progress-bars&theme=tokyonight&hide_border=true" alt="Progress Bars Repo"/>
     </a>
     <a href="https://github.com/TanjunBot/tanjun.java">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanjunBot&repo=tanjun.java&theme=tokyonight&hide_border=true" alt="Tanjun.java Repo"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=TanjunBot&repo=tanjun.java&theme=tokyonight&hide_border=true" alt="Tanjun.java Repo"/>
     </a>
     <a href="https://github.com/EntchenEric/books.entcheneric.com">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EntchenEric&repo=books.entcheneric.com&theme=tokyonight&hide_border=true" alt="books.entcheneric.com Repo"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EntchenEric&repo=books.entcheneric.com&theme=tokyonight&hide_border=true" alt="books.entcheneric.com Repo"/>
     </a>
     <a href="https://github.com/EntchenEric/PyBrawlStars">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EntchenEric&repo=PyBrawlStars&theme=tokyonight&hide_border=true" alt="PyBrawlStars Repo"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EntchenEric&repo=PyBrawlStars&theme=tokyonight&hide_border=true" alt="PyBrawlStars Repo"/>
     </a>
   </div>
   
